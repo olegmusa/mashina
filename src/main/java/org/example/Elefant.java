@@ -15,7 +15,7 @@ public  class Elefant {
     }
 
     public  void  Walk(){
-        System.out.println("Walking");
+        System.out.println("Walking good jjj");
 
 }
 
